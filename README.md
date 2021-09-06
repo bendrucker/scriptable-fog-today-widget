@@ -8,7 +8,7 @@ Fetches the latest Bay Area fog image from Fog Today and displays it in an iOS w
 
 Add `script.js` to Scriptable. Add a Scriptable widget and select the script. You can optionally set a widget parameter to a scaling factor that will be used to resize the image. If `2.0` is supplied, the bottom and right halves of the original image will be trimmed. 
 
-### Examples
+## Examples
 
 #### Small
 
